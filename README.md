@@ -139,7 +139,7 @@ The PostgreSQL schema includes 7 tables:
 
 ---
 
-## Excel Dashboard
+## Excel Dashboard (in progress)
 
 Five-tab workbook aligned to the white paper:
 
