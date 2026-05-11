@@ -113,7 +113,7 @@ demand-transference/
 
 ---
 
-## SQL Data Model
+## SQL Data Model (in progress)
 
 The PostgreSQL schema includes 7 tables:
 
