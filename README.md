@@ -101,10 +101,10 @@ demand-transference/
 │   └── DT_WhitePaper.pdf                          ← Full white paper
 │
 ├── sql/
-│   └── yankees_demand_transference.sql            ← PostgreSQL DDL + sample data + 8 queries
+│   └── yankees_demand_transference.sql            ← PostgreSQL DDL + sample data + 8 queries (in progress)
 │
 ├── dashboard/
-│   └── Yankees_Demand_Transference_Dashboard.xlsx ← Excel dashboard (5 tabs)
+│   └── Yankees_Demand_Transference_Dashboard.xlsx ← Excel dashboard (in progress)
 │
 └── images/
     ├── sankey_demand_flow.png                     ← Demand flow diagram
